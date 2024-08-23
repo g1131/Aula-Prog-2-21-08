@@ -10,7 +10,7 @@ void somando(){
         result+=x;
         x++;
     }
-    cout << result << endl;
+    cout << result;
 }
 
 int main(){
